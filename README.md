@@ -1,4 +1,4 @@
-# OBEB-OKEK (Swift)
+# LCM or GCD
 
 //
 
