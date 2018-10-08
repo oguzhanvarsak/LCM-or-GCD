@@ -1,5 +1,6 @@
 os: osx
 language: swift
+osx_image: xcode10
 xcode_project: LCM-or-GCD.xcodeproj
 xcode_scheme: LCM-or-GCD
 xcode_destination: platform=iOS Simulator,OS=11.3,name=iPhone 7
