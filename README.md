@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/oguzhanvarsak/LCM-or-GCD.svg?branch=master)](https://travis-ci.com/oguzhanvarsak/LCM-or-GCD)
+
+
 # LCM or GCD
 
 //
